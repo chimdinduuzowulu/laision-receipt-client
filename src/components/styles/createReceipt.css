@@ -1,0 +1,22 @@
+.space{
+    padding: 90px 90px 90px 90px;
+    margin: 40px;
+}
+.ReceiptSpace{
+    width: 80%;
+    margin: auto;
+    height: auto;
+    padding: 80px; 
+    margin: 40px; 
+    text-align: center;
+    border: 1px dashed black;
+    outline: none !important;
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 14px;
+    text-align: center;
+  }
