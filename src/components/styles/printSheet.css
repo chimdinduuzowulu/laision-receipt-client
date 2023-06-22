@@ -1,0 +1,15 @@
+@media print {
+  body * {
+    display: none;
+  }
+
+  #printableArea,
+  #printableArea * {
+    display: block;
+  }
+  #printableArea > table {
+    width: 100%;
+    overflow-x: visible;
+  }
+
+}
